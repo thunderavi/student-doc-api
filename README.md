@@ -168,3 +168,7 @@ curl -X POST http://localhost:3000/users \
 -H "Content-Type: application/json" \
 -d '{"name": "Alice", "email": "alice@example.com"}'
 ```
+
+
+<img width="913" height="921" alt="prrof1" src="https://github.com/user-attachments/assets/ef4cd1b1-f4ea-42aa-8891-31d153a3bb01" />
+<img width="932" height="942" alt="proof2" src="https://github.com/user-attachments/assets/448214aa-9af9-477d-8806-5e8d0f8e3024" />
